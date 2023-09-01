@@ -8,7 +8,8 @@ MBTI : ISTJ
 
 
 ## 이혜리
-
+MBTI : ISFP
+취미 : 게임, 다큐 시청
 
 ## 조호진
 MBTI : ISFP
