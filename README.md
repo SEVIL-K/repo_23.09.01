@@ -6,7 +6,7 @@ MBTI : ISTJ
 
 ## 송명헌
 MBTI : ISFP
-MBTI : ISFP
+MBTI : ISFPMBTI : ISFPMBTI : ISFP
 
 ## 이혜리
 MBTI : ISFP
