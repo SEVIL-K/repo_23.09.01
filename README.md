@@ -6,6 +6,8 @@ MBTI : ISTJ
 취미 : 축구, 노래
 
 ## 송명헌
+MBTI : ISFP
+MBTI : ISFPMBTI : ISFPMBTI : ISFPISFPMBTI : ISFP
 
 ## 이혜리
 
